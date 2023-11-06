@@ -1,0 +1,2 @@
+rb.gy/xezol2   ->ir sensor
+rb.gy/rfhwwv   ->temp sensor
